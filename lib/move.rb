@@ -8,6 +8,6 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(user_input)
-  user_input = gets.to_i - 1
+  user_input = gets.to_i
   puts user_input
 end
